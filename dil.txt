@@ -1,32 +1,32 @@
-Afghanistan	AF	
-Albania	AL	
-Algeria	DZ	
-American Samoa	AS
-Andorra	AD	
-Angola	AO	
-Anguilla	AI	
-Antarctica	AQ	
-Antigua and Barbuda	AG	
-Argentina	AR	
-Armenia	AM	
-Aruba	AW	
-Australia	AU	
-Austria	AT	
-Azerbaijan	AZ	
-Bahamas (the)	BS	
-Bahrain	BH	
-Bangladesh	BD	
-Barbados	BB	
-Belarus	BY	
-Belgium	BE	
-Belize	BZ	
-Benin	BJ	
-Bermuda	BM	
-Bhutan	BT	
-Bolivia (Plurinational State of)	BO	
-Bonaire, Sint Eustatius and Saba	BQ	
-Bosnia and Herzegovina	BA
-Botswana	BW	
+Afghanistan	AF	AFG	004
+Albania	AL	ALB	008
+Algeria	DZ	DZA	012
+American Samoa	AS	ASM	016
+Andorra	AD	AND	020
+Angola	AO	AGO	024
+Anguilla	AI	AIA	660
+Antarctica	AQ	ATA	010
+Antigua and Barbuda	AG	ATG	028
+Argentina	AR	ARG	032
+Armenia	AM	ARM	051
+Aruba	AW	ABW	533
+Australia	AU	AUS	036
+Austria	AT	AUT	040
+Azerbaijan	AZ	AZE	031
+Bahamas (the)	BS	BHS	044
+Bahrain	BH	BHR	048
+Bangladesh	BD	BGD	050
+Barbados	BB	BRB	052
+Belarus	BY	BLR	112
+Belgium	BE	BEL	056
+Belize	BZ	BLZ	084
+Benin	BJ	BEN	204
+Bermuda	BM	BMU	060
+Bhutan	BT	BTN	064
+Bolivia (Plurinational State of)	BO	BOL	068
+Bonaire, Sint Eustatius and Saba	BQ	BES	535
+Bosnia and Herzegovina	BA	BIH	070
+Botswana	BW	BWA	072
 Bouvet Island	BV	BVT	074
 Brazil	BR	BRA	076
 British Indian Ocean Territory (the)	IO	IOT	086
